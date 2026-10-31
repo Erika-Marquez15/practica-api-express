@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Teclado",
+    "precio": 350.00,
+    "stock": 15
+  },
+  {
+    "nombre": "Monitor",
+    "precio": 2800.00,
+    "stock": 8
+  },
+  {
+    "nombre": "Memoria USB",
+    "precio": 180.00,
+    "stock": 30
+  },
+  {
+    "nombre": "Disco duro",
+    "precio": 1250.00,
+    "stock": 12
+  },
+  {
+    "nombre": "Audifonos",
+    "precio": 450.00,
+    "stock": 20
+  },
+  {
+    "nombre": "Webcam",
+    "precio": 650.00,
+    "stock": 10
+  },
+  {
+    "nombre": "Impresora",
+    "precio": 3200.00,
+    "stock": 5
+  },
+  {
+    "nombre": "Bocinas",
+    "precio": 780.00,
+    "stock": 14
+  },
+  {
+    "nombre": "Laptop",
+    "precio": 12500.00,
+    "stock": 6
+  },
+  {
+    "nombre": "Mouse inalambrico",
+    "precio": 290.00,
+    "stock": 25
+  }
+]
